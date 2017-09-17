@@ -1,0 +1,10 @@
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\obj\Release\Simple Uninstaller.csprojResolveAssemblyReference.cache
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\obj\Release\SimpleUninstaller.frmAbout.resources
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\obj\Release\SimpleUninstaller.frmMain.resources
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\obj\Release\SimpleUninstaller.Properties.Resources.resources
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\obj\Release\Simple Uninstaller.csproj.GenerateResource.Cache
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\bin\Release\Simple Uninstaller.exe.config
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\bin\Release\Simple Uninstaller.exe
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\bin\Release\Simple Uninstaller.pdb
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\obj\Release\Simple Uninstaller.exe
+C:\Users\Safflower\Desktop\Simple Uninstaller\Simple Uninstaller\obj\Release\Simple Uninstaller.pdb

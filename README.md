@@ -1,3 +1,3 @@
 # Simple Uninstaller
 
-Made by Safflower (fuzzer@nate.com)
+Uninstall application in Windows OS

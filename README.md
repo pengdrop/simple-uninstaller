@@ -1,5 +1,5 @@
 # Simple Uninstaller
 
-![main.png](main.png)
+![main](https://i.imgur.com/twEqvzL.png)
 
 Uninstall application in Windows OS
